@@ -15,7 +15,7 @@ public class JstreamsAscii {
 		long d1 = System.nanoTime();
 		
 		int it =0;
-		int noOfIterations = 50;
+		int noOfIterations = 50; //edit here
 		while(it<noOfIterations) {
 		kar(i,j,ll);
 		it++;
